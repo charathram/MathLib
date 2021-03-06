@@ -1,6 +1,6 @@
 #ifndef MATHLIB
 #define MATHLIB
 
-int multiply_by(int operand, int factor);
+int multiply_by(int factor, int operand);
 
 #endif
